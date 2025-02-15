@@ -17,4 +17,4 @@ Natural Datetime Logger is a lightweight Python logging utility that enhances Py
 You can install the package directly from GitHub like so:
 
 ```bash
-pip install git+https://github.com/your-username/NaturalDatetimeLogger.git
+pip install git+https://github.com/theHaruspex/NaturalDatetimeLogger.git
